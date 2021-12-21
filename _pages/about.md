@@ -15,13 +15,16 @@ Welcome! I am a Graduate Student in the Chen-Konno Electromagnetics and Antenna 
 Education
 ======
 **Master of Engineering in Communications Engineering (in progress)**<br>
-March 2020 - April 2022
+March 2020 - April 2022<br>
+<em>Graduate School of Engineering, Tohoku University</em><br>
 
 **Bachelor of Science in Electrical and Electronic Engineering**<br>
-September 2012 - November 2018
+September 2012 - November 2018<br>
+<em>College of Engeering and Technology, Jomo Kenyatta University of Agriculture and Technology</em><br>
 
 **Bachelor of Science in Telecommunications and Information Engineering**<br>
-September 2012 - November 2017
+September 2012 - November 2017<br>
+<em>College of Engeering and Technology, Jomo Kenyatta University of Agriculture and Technology</em><br>
 
 ------
 
