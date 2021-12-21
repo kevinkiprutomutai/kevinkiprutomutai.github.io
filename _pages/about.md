@@ -20,11 +20,11 @@ March 2020 - April 2022<br>
 
 **Bachelor of Science in Electrical and Electronic Engineering**<br>
 September 2012 - November 2018<br>
-<em>College of Engeering and Technology, Jomo Kenyatta University of Agriculture and Technology</em><br>
+<em>College of Engineering and Technology, Jomo Kenyatta University of Agriculture and Technology</em><br>
 
 **Bachelor of Science in Telecommunications and Information Engineering**<br>
 September 2012 - November 2017<br>
-<em>College of Engeering and Technology, Jomo Kenyatta University of Agriculture and Technology</em><br>
+<em>College of Engineering and Technology, Jomo Kenyatta University of Agriculture and Technology</em><br>
 
 ------
 
