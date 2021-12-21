@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "kevin kipruto mutai"
+title                    : "Kevin Kipruto Mutai"
 title_separator          : "-"
-name                     : &name "kevin kipruto mutai"
+name                     : &name "Kevin Kipruto Mutai"
 description              : &description "personal description"
 url                      : https://kevinkiprutomutai.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  name             : "Kevin Kipruto Mutai"
+  avatar           : "profile.jpg"
+  bio              : "Graduate Student"
+  location         : "Sendai, Miyagi, Japan"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           :
+  googlescholar    : "https://scholar.google.com/citations?user=mSSQRCwAAAAJ&hl=en"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  "https://www.researchgate.net/profile/Kevin-Mutai?ev=hdr_xprf"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/kevinkiprutomutai"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/kevin-mutai-419a18a9/"
+  orcid            : "https://orcid.org/my-orcid?orcid=0000-0003-3611-6331"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "https://twitter.com/home"
   vine             :
   weibo            :
   xing             :
@@ -175,18 +175,18 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
-    output: true
-    permalink: /:collection/:path/
+  #teaching:
+    #output: true
+    #permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
-  talks:
-    output: true
-    permalink: /:collection/:path/
+  #portfolio:
+    #output: true
+    #permalink: /:collection/:path/
+  #talks:
+    #output: true
+    #permalink: /:collection/:path/
 
 
 # Defaults
