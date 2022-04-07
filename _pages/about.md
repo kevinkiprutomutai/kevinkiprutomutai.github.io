@@ -14,8 +14,12 @@ Welcome! I am a Graduate Student in the [Chen-Konno Electromagnetics and Antenna
 
 Education
 ======
-**Master of Engineering in Communications Engineering (in progress)**<br>
-March 2020 - April 2022<br>
+**Doctor of Philosophy in Electrical, Electronics and Communications Engineering (in progress)**<br>
+April 2022 - March 2025<br>
+<em>Graduate School of Engineering, Tohoku University</em><br>
+
+**Master of Engineering in Electrical, Electronics and Communications Engineering**<br>
+April 2020 - March 2022<br>
 <em>Graduate School of Engineering, Tohoku University</em><br>
 
 **Bachelor of Science in Electrical and Electronic Engineering**<br>
