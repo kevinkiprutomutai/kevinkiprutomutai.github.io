@@ -34,9 +34,9 @@ September 2012 - November 2017<br>
 
 Memberships
 ======
-**Institute of Electrical and Electronics Engineers (IEEE)**<br>
+Institute of Electrical and Electronics Engineers (IEEE)<br>
 
-**Institute of Electronics, Information and Communication Engineers (IEICE)**<br>
+Institute of Electronics, Information and Communication Engineers (IEICE)<br>
 
 ------
 
