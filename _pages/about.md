@@ -32,10 +32,18 @@ September 2012 - November 2017<br>
 
 ------
 
+Memberships
+======
+**Institute of Electrical and Electronics Engineers (IEEE)**<br>
+
+**Institute of Electronics, Information and Communication Engineers (IEICE)**<br>
+
+------
+
 Awards
 ======
 **Student Presentation Award - ICETC2020**<br>
-This award is given to those who give excellent presentations during an annual meeting of the Institute of Electronics, Information and Communication Engineers (IEICE).
+This award is given to those who give excellent presentations during an annual meeting of the IEICE.
 
 **Vice Chancellor's Award for Academic Excellence**<br>
 This award is given to those who have excellent academic performance during the undergraduate degree at Jomo Kenyatta University of Agriculture and Technology.
