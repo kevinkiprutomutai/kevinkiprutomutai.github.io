@@ -42,6 +42,9 @@ Institute of Electronics, Information and Communication Engineers (IEICE)<br>
 
 Awards
 ======
+**Best Student Paper Prize - IEEE Sendai Section**<br>
+This award is given to those who prepare and present excellent manuscripts during an annual meeting of the Tohoku section of the IEEE.
+
 **Student Presentation Award - ICETC2020**<br>
 This award is given to those who give excellent presentations during an annual meeting of the IEICE.
 
