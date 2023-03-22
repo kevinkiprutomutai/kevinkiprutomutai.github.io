@@ -43,12 +43,12 @@ Institute of Electronics, Information and Communication Engineers (IEICE)<br>
 Awards
 ======
 **Best Student Paper Prize 2022 - IEEE Sendai Section**<br>
-This award is given to those who prepare and present excellent manuscripts during an annual meeting of the Tohoku section of the IEEE.
+Awarded to those who prepare and present excellent manuscripts during an annual meeting of the Tohoku section of the IEEE.
 
 **Student Presentation Award - ICETC2020**<br>
-This award is given to those who give excellent presentations during an annual meeting of the IEICE.
+Given to those who give excellent presentations during an annual meeting of the IEICE.
 
 **Vice Chancellor's Award for Academic Excellence**<br>
-This award is given to those who have excellent academic performance during the undergraduate degree at Jomo Kenyatta University of Agriculture and Technology.
+Presented to those who have exemplary academic performance during the undergraduate degree at Jomo Kenyatta University of Agriculture and Technology.
 
 ------
