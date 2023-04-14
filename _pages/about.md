@@ -8,7 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a Graduate Student in the [Chen-Konno Electromagnetics and Antenna Engineering Laboratory](http://www.chenq.ecei.tohoku.ac.jp/) at Tohoku University in Sendai, Miyagi, Japan. While my primary research interests include [leaky-wave antennas and millimeter wave imaging](publications.md), I am also interested in the intersection between computational electromagnetics and machine learning. Apart from my academic experience, I spent some time at Huawei as a Packet Core Network Engineer where I had the opportunity to work with major Telecommunication operators in both Kenya and Somalia in a number of projects.
+Welcome! I am a Graduate Student in the [Chen-Konno Electromagnetics and Antenna Engineering Laboratory](http://www.chenq.ecei.tohoku.ac.jp/) at Tohoku University in Sendai, Miyagi, Japan. Apart from my academic experience, I spent some time at Huawei as a Packet Core Network Engineer where I had the opportunity to work with major Telecommunication operators in both Kenya and Somalia in a number of projects.
+
+------
+
+Research
+======
+My primary research is in millimeter wave imaging where I am currently exploring leaky-wave antennas as sensors. My long term interest is high resolution, three-dimensional imaging exploiting holographic reconstruction techniques (algorithm) and low-cost, low-profile electronically reconfigurable structures (physical layer).
 
 ------
 
