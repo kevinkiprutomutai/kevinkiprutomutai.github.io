@@ -14,7 +14,7 @@ Welcome! I am a Graduate Student in the [Chen-Konno Electromagnetics and Antenna
 
 Research
 ======
-My primary research is in millimeter wave imaging where I am currently exploring leaky-wave antennas as sensors. My long term interest is high resolution, three-dimensional imaging exploiting holographic reconstruction techniques and low-cost, low-profile electronically reconfigurable structures at the physical layer.
+My primary research is in millimeter wave imaging where I am currently exploring leaky-wave antennas as sensors. My long term interest lies in high resolution, three-dimensional imaging exploiting holographic reconstruction techniques and low-cost, low-profile electronically reconfigurable structures at the physical layer.
 
 ------
 
