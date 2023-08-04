@@ -49,7 +49,7 @@ Institute of Electronics, Information and Communication Engineers (IEICE)<br>
 Awards
 ======
 **IEEE AP-S 2023 Doctoral Fellowship**<br>
-A highly prestigious and competitive honor for Ph.D. students in IEEE Antennas and Propagation Society (AP-S), the goal of this award is to encourage pursuit of careers in advanced applied electromagnetics and antenna engineering. The award selection is based on creativity and quality of the proposed project as well as evaluation of the technical interests and skills of the candidates.
+A highly prestigious and competitive honor for Ph.D. students in IEEE Antennas and Propagation Society (AP-S), the goal of this award is to encourage pursuit of careers in advanced applied electromagnetics and antenna engineering.
 
 **Best Student Paper Prize 2022 - IEEE Sendai Section**<br>
 Awarded to those who prepare and present excellent manuscripts during an annual meeting of the Tohoku section of the IEEE.
