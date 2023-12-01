@@ -52,6 +52,6 @@ IEEE AP-S Japan Student Award 2023<br>
 IEEE AP-S 2023 Doctoral Fellowship<br>
 Best Student Paper Prize 2022 - IEEE Sendai Section<br>
 Student Presentation Award - ICETC2020<br>
-Vice Chancellor's Award for Academic Excellence - JKUAT<br>
+Vice Chancellor's Undergraduate Academic Excellence Award - JKUAT<br>
 
 ------
