@@ -30,11 +30,11 @@ April 2020 - March 2022<br>
 
 **Bachelor of Science in Electrical and Electronic Engineering**<br>
 September 2012 - November 2018<br>
-<em>College of Engineering and Technology, Jomo Kenyatta University of Agriculture and Technology</em><br>
+<em>College of Engineering and Technology, Jomo Kenyatta University of Agriculture and Technology (JKUAT)</em><br>
 
 **Bachelor of Science in Telecommunications and Information Engineering**<br>
 September 2012 - November 2017<br>
-<em>College of Engineering and Technology, Jomo Kenyatta University of Agriculture and Technology</em><br>
+<em>College of Engineering and Technology, Jomo Kenyatta University of Agriculture and Technology (JKUAT)</em><br>
 
 ------
 
@@ -52,6 +52,6 @@ IEEE AP-S Japan Student Award 2023<br>
 IEEE AP-S 2023 Doctoral Fellowship<br>
 Best Student Paper Prize 2022 - IEEE Sendai Section<br>
 Student Presentation Award - ICETC2020<br>
-Vice Chancellor's Award for Academic Excellence<br>
+Vice Chancellor's Award for Academic Excellence - JKUAT<br>
 
 ------
