@@ -6,17 +6,6 @@ author_profile: true
 redirect_from:
   - /about/
   - /about.html
-
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-68G4W4QPXH"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-68G4W4QPXH');
-</script>
-
 ---
 
 Welcome! I am a Graduate Student in the [Chen-Konno Electromagnetics and Antenna Engineering Laboratory](http://www.chenq.ecei.tohoku.ac.jp/) at Tohoku University in Sendai, Miyagi, Japan. Apart from my academic experience, I spent some time at Huawei as a Packet Core Network Engineer where I had the opportunity to work with major Telecommunication operators in both Kenya and Somalia in a number of projects.
