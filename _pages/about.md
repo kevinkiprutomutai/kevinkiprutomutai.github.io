@@ -49,11 +49,11 @@ Institute of Electronics, Information and Communication Engineers (IEICE)<br>
 Awards
 ======
 <ul>
-<li>IEEE AP-S Japan Student Award 2023<\li>
-<li>IEEE AP-S 2023 Doctoral Fellowship<\li>
-<li>Best Student Paper Prize 2022 - IEEE Sendai Section<\li>
-<li>Student Presentation Award - ICETC2020<\li>
-<li>Vice Chancellor's Undergraduate Academic Excellence Award - JKUAT<\li>
-<\ul>
+<li>IEEE AP-S Japan Student Award 2023</li>
+<li>IEEE AP-S 2023 Doctoral Fellowship</li>
+<li>Best Student Paper Prize 2022 - IEEE Sendai Section</li>
+<li>Student Presentation Award - ICETC2020</li>
+<li>Vice Chancellor's Undergraduate Academic Excellence Award - JKUAT</li>
+</ul>
 
 ------
