@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Kevin Kipruto Mutai"
+title                    : "Kevin"
 title_separator          : "-"
-name                     : &name "Kevin Kipruto Mutai"
+name                     : &name "Kevin"
 description              : &description "personal description"
 url                      : https://kevinkiprutomutai.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
