@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a Graduate Student in the [Chen-Konno Electromagnetics and Antenna Engineering Laboratory](http://www.chenq.ecei.tohoku.ac.jp/) at Tohoku University in Sendai, Miyagi, Japan. Apart from my academic experience, I spent some time at Huawei as a Packet Core Network Engineer where I had the opportunity to work with major Telecommunication operators in both Kenya and Somalia in a number of projects.
+Welcome! I am a Graduate Student in the [Chen-Konno Electromagnetics and Antenna Engineering Laboratory](http://www.chenq.ecei.tohoku.ac.jp/) at Tohoku University in Sendai, Miyagi, Japan. At the moment I am primarily engaged in applied electromagnetics research but I've been working on a number of personal side projects spanning several domains that I will include in this website. Eventually.
 
 ------
 
