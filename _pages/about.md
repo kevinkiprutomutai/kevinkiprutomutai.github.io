@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a Graduate Student in the [Chen-Konno Electromagnetics and Antenna Engineering Laboratory](http://www.chenq.ecei.tohoku.ac.jp/) at Tohoku University in Sendai, Miyagi, Japan. At the moment I am primarily engaged in applied electromagnetics research but I've been working on a number of personal, cross-domain side projects that I will include in this website. Eventually.
+Welcome! I am a Graduate Student in the [Chen-Konno Electromagnetics and Antenna Engineering Laboratory](http://www.chenq.ecei.tohoku.ac.jp/) at Tohoku University in Sendai, Miyagi, Japan. At the moment I am primarily engaged in applied electromagnetics research but I've been working on a number of personal, cross-domain side projects that I will post on this website. Eventually.
 
 ------
 
