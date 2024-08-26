@@ -1,7 +1,7 @@
 ---
-permalink: /moreabout/
+layout: single
 title: "More about me"
-excerpt: "More about me"
+permalink: /moreabout/
 author_profile: true
 redirect_from:
   - /moreabout/
