@@ -244,13 +244,13 @@ defaults:
   #    layout: talk
   #    author_profile: true
   #    share: true
-  - scope:
-      path: ""
-      type: background
-    values:
-      layout: single
-      author_profile: true
-      share: true
+  #- scope:
+  #    path: ""
+  #    type: moreabout
+  #  values:
+  #    layout: single
+  #    author_profile: true
+  #    share: true
 
 # Sass/SCSS
 sass:
