@@ -2,7 +2,7 @@
 permalink: /
 title: "More about me"
 excerpt: "More about me"
-author_profile: false
+author_profile: true
 redirect_from:
   - /background/
   - /background.html
