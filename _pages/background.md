@@ -1,8 +1,8 @@
 ---
 permalink: /
-title: "Background and qualifications"
+title: "More about me"
 excerpt: "More about me"
-author_profile: true
+author_profile: false
 redirect_from:
   - /about/
   - /about.html
