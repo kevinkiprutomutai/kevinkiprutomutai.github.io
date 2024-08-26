@@ -3,9 +3,9 @@ layout: single
 title: "More about me"
 permalink: /moreabout/
 author_profile: true
-redirect_from:
-  - /moreabout/
-  - /moreabout.html
+#redirect_from:
+#  - /moreabout/
+#  - /moreabout.html
 ---
 
 Education
