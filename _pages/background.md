@@ -5,7 +5,7 @@ excerpt: "More about me"
 author_profile: true
 redirect_from:
   - /background/
-  #- /background.html
+  - /background.html
 ---
 
 Education
