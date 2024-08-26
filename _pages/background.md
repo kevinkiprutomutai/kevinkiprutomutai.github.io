@@ -4,8 +4,8 @@ title: "More about me"
 excerpt: "More about me"
 author_profile: false
 redirect_from:
-  - /about/
-  - /about.html
+  - /background/
+  - /background.html
 ---
 
 Education
