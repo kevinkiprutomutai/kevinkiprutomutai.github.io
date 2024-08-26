@@ -1,11 +1,11 @@
 ---
-permalink: /background/
+permalink: /moreabout/
 title: "More about me"
 excerpt: "More about me"
 author_profile: true
 redirect_from:
-  - /background/
-  - /background.html
+  - /moreabout/
+  - /moreabout.html
 ---
 
 Education
