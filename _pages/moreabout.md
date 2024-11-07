@@ -36,6 +36,18 @@ Institute of Electronics, Information and Communication Engineers (IEICE)<br>
 
 ------
 
+Service
+======
+Peer Reviewer for:
+<ul>
+<li>IEEE Transactions on Antennas and Propagation</li>
+<li>IEEE Antennas and Wireless Propagation Letters</li>
+<li>IEEE Transactions on Vehicular Technology</li>
+<li>Scientific Reports</li>
+</ul>
+
+------
+
 Awards
 ======
 <ul>
