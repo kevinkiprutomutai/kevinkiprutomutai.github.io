@@ -44,6 +44,7 @@ Peer Reviewer for:
 <li>IEEE Antennas and Wireless Propagation Letters</li>
 <li>IEEE Transactions on Vehicular Technology</li>
 <li>Scientific Reports</li>
+<li>Various conferences and workshops</li>
 </ul>
 
 ------
