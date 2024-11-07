@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "More about me"
+title: ""
 permalink: /moreabout/
 author_profile: true
 #redirect_from:
