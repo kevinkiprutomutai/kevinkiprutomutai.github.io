@@ -28,16 +28,12 @@ September 2012 - November 2017<br>
 
 ------
 
-Memberships
+Memberships and Service
 ======
 Institute of Electrical and Electronics Engineers (IEEE)<br>
 
 Institute of Electronics, Information and Communication Engineers (IEICE)<br>
 
-------
-
-Service
-======
 Peer Reviewer for:
 <ul>
 <li>IEEE Transactions on Antennas and Propagation</li>
