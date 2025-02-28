@@ -9,9 +9,9 @@ author_profile: true
 ---
 Academic and Industrial Experience
 ======
-<li>R&D Associate - [Visban, Inc.](https://visban.com/) - 2024/09 to Present</li>
-<li>Research Assistant - [Program on Innovation Platform with Enterprises, Research Institute and Academia (OPERA)](https://web.tohoku.ac.jp/opera/en/) - 2023/10 to Present</li>
-<li>Network Engineer - [Huawei Technologies Kenya](https://www.huawei.com/en/) - 2018/8 to 2019/03</li>
+- R&D Associate - [Visban, Inc.](https://visban.com/) - 2024/09 to Present</li>
+- Research Assistant - [Program on Innovation Platform with Enterprises, Research Institute and Academia (OPERA)](https://web.tohoku.ac.jp/opera/en/) - 2023/10 to Present</li>
+- Network Engineer - [Huawei Technologies Kenya](https://www.huawei.com/en/) - 2018/8 to 2019/03</li>
 
 Education
 ======
@@ -35,29 +35,24 @@ September 2012 - November 2017<br>
 
 Memberships and Service
 ======
-[Institute of Electrical and Electronics Engineers (IEEE)](https://www.ieee.org/)<br>
-
-[Institute of Electronics, Information and Communication Engineers (IEICE)](https://www.ieice.org/eng_r/index.html)<br>
+- [Institute of Electrical and Electronics Engineers (IEEE)](https://www.ieee.org/)<br>
+- [Institute of Electronics, Information and Communication Engineers (IEICE)](https://www.ieice.org/eng_r/index.html)<br>
 
 Peer Reviewer for:
-<ul>
-<li>[IEEE Transactions on Antennas and Propagation](https://www.ieeeaps.org/ieee-tap/home)</li>
-<li>[IEEE Antennas and Wireless Propagation Letters](http://awpl.ee.cuhk.edu.hk/)</li>
-<li>[IEEE Transactions on Vehicular Technology](https://vtsociety.org/publication/ieee-transactions-vehicular-technology)</li>
-<li>[Scientific Reports](https://www.nature.com/srep/)</li>
-<li>Various conferences and workshops</li>
-</ul>
+- [IEEE Transactions on Antennas and Propagation](https://www.ieeeaps.org/ieee-tap/home)</li>
+- [IEEE Antennas and Wireless Propagation Letters](http://awpl.ee.cuhk.edu.hk/)</li>
+- [IEEE Transactions on Vehicular Technology](https://vtsociety.org/publication/ieee-transactions-vehicular-technology)</li>
+- [Scientific Reports](https://www.nature.com/srep/)</li>
+- Various conferences and workshops</li>
 
 ------
 
 Awards
 ======
-<ul>
-<li>[IEEE AP-S Japan Student Award 2023](https://r10.ieee.org/tokyo-aps/awards2023-winners/)</li>
-<li>[IEEE AP-S Doctoral Fellowship 2023](https://www.ieeeaps.org/awards/ieee-antennas-and-propagation-society-fellowship-program-awards)</li>
-<li>[IEEE Sendai Section Best Student Paper Prize 2022](https://www.ieeer10.org/wp-content/uploads/2023/02/Sendai_Section_Report_2022.pdf)</li>
-<li>[IEICE Communications Society ICETC Student Presentation Award 2020](https://www.ieice.org/cs/icetc/2020/program.html#awards)</li>
-<li>JKUAT Vice Chancellor's Undergraduate Academic Excellence Award</li>
-</ul>
+- [IEEE AP-S Japan Student Award 2023](https://r10.ieee.org/tokyo-aps/awards2023-winners/)</li>
+- [IEEE AP-S Doctoral Fellowship 2023](https://www.ieeeaps.org/awards/ieee-antennas-and-propagation-society-fellowship-program-awards)</li>
+- [IEEE Sendai Section Best Student Paper Prize 2022](https://www.ieeer10.org/wp-content/uploads/2023/02/Sendai_Section_Report_2022.pdf)</li>
+- [IEICE Communications Society ICETC Student Presentation Award 2020](https://www.ieice.org/cs/icetc/2020/program.html#awards)</li>
+- JKUAT Vice Chancellor's Undergraduate Academic Excellence Award</li>
 
 ------
