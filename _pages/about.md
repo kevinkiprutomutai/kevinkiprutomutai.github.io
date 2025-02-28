@@ -14,7 +14,7 @@ Welcome! I am currently a Graduate Student in the [Chen-Konno Electromagnetics a
 
 Research
 ======
-My [research](https://kevinkiprutomutai.github.io/publications/) is on millimeter wave and terahertz imaging where I am exploring leaky-wave antennas as sensors. My long term interest lies in high resolution, three-dimensional imaging exploiting holographic reconstruction techniques and low-cost, low-profile electronically reconfigurable structures at the physical layer. An ancillary focus of my work would be to investigate
+My [research](https://kevinkiprutomutai.github.io/publications/) is on millimeter wave and terahertz imaging where I am exploring leaky-wave antennas as sensors. My long term interest lies in high resolution, three-dimensional imaging exploiting holographic reconstruction techniques and low-cost, low-profile electronically reconfigurable structures at the physical layer. An ancillary focus of my work is to investigate
 the applicability of said structures in communications scenarios.
 
 If any of the stuff I mentioned above piques your interest, feel free to reach out for collaborations through any of the social media links on the side if you are on PC or via the "Follow" button at the top if you are on mobile.
