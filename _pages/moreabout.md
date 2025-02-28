@@ -29,15 +29,15 @@ September 2012 - November 2017
 *College of Engineering and Technology, Jomo Kenyatta University of Agriculture and Technology (JKUAT)*
 
 ## Memberships and Service
-- [Institute of Electrical and Electronics Engineers (IEEE)](https://www.ieee.org/)<br>
-- [Institute of Electronics, Information and Communication Engineers (IEICE)](https://www.ieice.org/eng_r/index.html)<br>
+- [Institute of Electrical and Electronics Engineers (IEEE)](https://www.ieee.org/)
+- [Institute of Electronics, Information and Communication Engineers (IEICE)](https://www.ieice.org/eng_r/index.html)
 
 Peer Reviewer for:
 - [IEEE Transactions on Antennas and Propagation](https://www.ieeeaps.org/ieee-tap/home)
 - [IEEE Antennas and Wireless Propagation Letters](http://awpl.ee.cuhk.edu.hk/)
 - [IEEE Transactions on Vehicular Technology](https://vtsociety.org/publication/ieee-transactions-vehicular-technology)
 - [Scientific Reports](https://www.nature.com/srep/)
-- Various conferences and workshops</li>
+- Various conferences and workshops
 
 ## Awards
 - [IEEE AP-S Japan Student Award 2023](https://r10.ieee.org/tokyo-aps/awards2023-winners/)
