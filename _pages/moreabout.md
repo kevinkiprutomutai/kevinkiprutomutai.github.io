@@ -9,15 +9,15 @@ author_profile: true
 ---
 Academic and Industrial Experience
 ======
-R&D Associate - [Visban, Inc.](https://visban.com/) - 2024/09 to Present
-Research Assistant - [Program on Innovation Platform with Enterprises, Research Institute and Academia (OPERA)](https://web.tohoku.ac.jp/opera/en/) - 2023/10 to Present
-Network Engineer - [Huawei Technologies Kenya](https://www.huawei.com/en/) - 2018/8 to 2019/03
+<li>R&D Associate - [Visban, Inc.](https://visban.com/) - 2024/09 to Present</li>
+<li>Research Assistant - [Program on Innovation Platform with Enterprises, Research Institute and Academia (OPERA)](https://web.tohoku.ac.jp/opera/en/) - 2023/10 to Present</li>
+<li>Network Engineer - [Huawei Technologies Kenya](https://www.huawei.com/en/) - 2018/8 to 2019/03</li>
 
 Education
 ======
 **Doctor of Philosophy in Communications Engineering (in progress)**<br>
 April 2022 - March 2025<br>
-<em>[Graduate School of Engineering, Tohoku University]()</em><br>
+<em>Graduate School of Engineering, Tohoku University</em><br>
 
 **Master of Engineering in Communications Engineering**<br>
 April 2020 - March 2022<br>
