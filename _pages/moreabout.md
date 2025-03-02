@@ -7,7 +7,7 @@ author_profile: true
 #  - /moreabout/
 #  - /moreabout.html
 ---
-## Academic and Industrial Experience
+## Experience
 - R&D Associate - [Visban, Inc.](https://visban.com/) - 2024/09 to Present
 - Research Assistant - [Program on Innovation Platform with Enterprises, Research Institute and Academia (OPERA)](https://web.tohoku.ac.jp/opera/en/) - 2023/10 to Present
 - Network Engineer - [Huawei Technologies Kenya](https://www.huawei.com/en/) - 2018/8 to 2019/03
