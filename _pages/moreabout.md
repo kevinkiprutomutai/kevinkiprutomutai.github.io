@@ -42,7 +42,7 @@ Peer Reviewer for:
 - [Scientific Reports](https://www.nature.com/srep/)
 - Various conferences and workshops
 
-## Awards
+## Awards and Fellowships
 - [Tohoku University President's Award for Academic Excellence](http://www.chenq.ecei.tohoku.ac.jp/)
 - [IEEE AP-S Japan Student Award 2023](https://r10.ieee.org/tokyo-aps/awards2023-winners/)
 - [IEEE AP-S Doctoral Fellowship 2023](https://www.ieeeaps.org/awards/ieee-antennas-and-propagation-society-fellowship-program-awards)
