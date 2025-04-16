@@ -11,7 +11,7 @@ author_profile: true
 - Post-Doctoral Research Associate - [Brown University](https://www.brown.edu/) - 2025/04 to Present
 - R&D Consultant - [Suiso, Ltd.](https://suiso.co.uk/) - 2025/03 to Present
 - R&D Associate - [Visban, Inc.](https://visban.com/) - 2024/09 to Present
-- Research Assistant - [Program on Innovation Platform with Enterprises, Research Institute and Academia (OPERA)](https://web.tohoku.ac.jp/opera/en/) - 2022/10 to Present
+- Research Assistant - [Program on Innovation Platform with Enterprises, Research Institute and Academia (OPERA)](https://web.tohoku.ac.jp/opera/en/) - 2022/10 to 2025/03
 - Network Engineer - [Huawei Technologies Kenya](https://www.huawei.com/en/) - 2018/8 to 2019/03
 
 ## Education
