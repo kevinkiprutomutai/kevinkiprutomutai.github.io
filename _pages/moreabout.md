@@ -15,7 +15,7 @@ author_profile: true
 - Network Engineer - [Huawei Technologies Kenya](https://www.huawei.com/en/) - 2018/8 to 2019/03
 
 ## Education
-**Doctor of Philosophy in Communications Engineering (in progress)**  
+**Doctor of Philosophy in Communications Engineering**  
 April 2022 - March 2025  
 *Graduate School of Engineering, Tohoku University*
 
