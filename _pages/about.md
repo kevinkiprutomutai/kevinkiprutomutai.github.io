@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am currently a Post-Doctoral Research Associate in the [Mittleman group](https://sites.brown.edu/mittleman/people/) at Brown University in Providence, Rhode Island, USA. At the moment I am primarily engaged in applied electromagnetics research but in my free time I've been working on a number of personal, cross-domain side projects that I will post on this website. If you'd like know more about my background and qualifications, check out [this](https://kevinkiprutomutai.github.io/moreabout/) page.
+Welcome! I am currently a Postdoctoral Research Associate in the [Mittleman group](https://sites.brown.edu/mittleman/people/) at Brown University in Providence, Rhode Island, USA. At the moment I am primarily engaged in applied electromagnetics research but in my free time I've been working on a number of personal, cross-domain side projects that I will post on this website. If you'd like know more about my background and qualifications, check out [this](https://kevinkiprutomutai.github.io/moreabout/) page.
 
 ------
 
