@@ -23,11 +23,11 @@ April 2022 - March 2025
 April 2020 - March 2022  
 *Graduate School of Engineering, Tohoku University*
 
-**Bachelor of Science in Electrical and Electronic Engineering**  
+**Bachelor of Science in Electrical and Electronic Engineering - First Class Honors**  
 September 2012 - November 2018  
 *College of Engineering and Technology, Jomo Kenyatta University of Agriculture and Technology (JKUAT)*
 
-**Bachelor of Science in Telecommunications and Information Engineering**  
+**Bachelor of Science in Telecommunications and Information Engineering - First Class Honors**  
 September 2012 - November 2017  
 *College of Engineering and Technology, Jomo Kenyatta University of Agriculture and Technology (JKUAT)*
 
