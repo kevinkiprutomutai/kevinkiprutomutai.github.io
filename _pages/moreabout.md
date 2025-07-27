@@ -49,4 +49,4 @@ Peer Reviewer for:
 - [IEEE Sendai Section Best Student Paper Prize 2022](https://www.ieeer10.org/wp-content/uploads/2023/02/Sendai_Section_Report_2022.pdf)
 - [IEICE Communications Society ICETC Student Presentation Award 2020](https://www.ieice.org/cs/icetc/2020/program.html#awards)
 - Japanese Government (MEXT) Scholarship to cover tuition and living expenses during my graduate studies
-- JKUAT Vice Chancellor's Undergraduate Academic Excellence Award
+- JKUAT Vice Chancellor's Award for academic excellence in my undergraduate studies
