@@ -43,7 +43,7 @@ Peer Reviewer for:
 - Various conferences and workshops
 
 ## Awards and Fellowships
-- [Tohoku University President's Award](http://www.chenq.ecei.tohoku.ac.jp/) for outstanding research and academic achievements in my doctoral studies
+- [Tohoku University President's Award 2025](http://www.chenq.ecei.tohoku.ac.jp/) for outstanding research and academic achievements in my doctoral studies
 - [IEEE AP-S Japan Student Award 2023](https://r10.ieee.org/tokyo-aps/awards2023-winners/)
 - [IEEE AP-S Doctoral Fellowship 2023](https://www.ieeeaps.org/awards/ieee-antennas-and-propagation-society-fellowship-program-awards)
 - [IEEE Sendai Section Best Student Paper Prize 2022](https://www.ieeer10.org/wp-content/uploads/2023/02/Sendai_Section_Report_2022.pdf)
