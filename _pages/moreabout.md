@@ -33,7 +33,7 @@ September 2012 - November 2017
 
 ## Memberships and Service
 - [Institute of Electrical and Electronics Engineers (IEEE)](https://www.ieee.org/)
-- [Americal Physical Society (APS)](https://www.aps.org/)
+- [American Physical Society (APS)](https://www.aps.org/)
 - [Sigma Xi](https://www.sigmaxi.org/)
 
 Peer Reviewer for:
