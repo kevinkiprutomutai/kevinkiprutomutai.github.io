@@ -33,7 +33,8 @@ September 2012 - November 2017
 
 ## Memberships and Service
 - [Institute of Electrical and Electronics Engineers (IEEE)](https://www.ieee.org/)
-- [Institute of Electronics, Information and Communication Engineers (IEICE)](https://www.ieice.org/eng_r/index.html)
+- [Americal Physical Society (APS)](https://www.aps.org/)
+- [Sigma Xi](https://www.sigmaxi.org/)
 
 Peer Reviewer for:
 - [IEEE Transactions on Antennas and Propagation](https://www.ieeeaps.org/ieee-tap/home)
