@@ -41,6 +41,7 @@ Peer Reviewer for:
 - [IEEE Antennas and Wireless Propagation Letters](http://awpl.ee.cuhk.edu.hk/)
 - [IEEE Transactions on Vehicular Technology](https://vtsociety.org/publication/ieee-transactions-vehicular-technology)
 - [Scientific Reports](https://www.nature.com/srep/)
+- [Journal of Infrared, Millimeter, and Terahertz Waves](https://link.springer.com/journal/10762)
 - Various conferences and workshops
 
 ## Awards and Fellowships
