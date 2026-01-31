@@ -32,7 +32,7 @@ September 2012 - November 2017
 *College of Engineering and Technology, Jomo Kenyatta University of Agriculture and Technology (JKUAT)*
 
 ## Memberships and Service
-- [Institute of Electrical and Electronics Engineers (IEEE)](https://www.ieee.org/)
+- [Institute of Electrical and Electronics Engineers (IEEE) - Antennas and Propagation Society](https://www.ieeeaps.org/)
 - [American Physical Society (APS)](https://www.aps.org/)
 - [Sigma Xi](https://www.sigmaxi.org/)
 
