@@ -35,6 +35,7 @@ September 2012 - November 2017
 - [Institute of Electrical and Electronics Engineers (IEEE) - Antennas and Propagation Society](https://www.ieeeaps.org/)
 - [American Physical Society (APS)](https://www.aps.org/)
 - [Sigma Xi](https://www.sigmaxi.org/)
+- [European Association on Antennas and Propagation](https://www.euraap.org/)
 
 Peer Reviewer for:
 - [IEEE Transactions on Antennas and Propagation](https://www.ieeeaps.org/ieee-tap/home)
