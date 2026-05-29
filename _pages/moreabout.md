@@ -43,9 +43,12 @@ Peer Reviewer for:
 - [IEEE Transactions on Vehicular Technology](https://vtsociety.org/publication/ieee-transactions-vehicular-technology)
 - [Scientific Reports](https://www.nature.com/srep/)
 - [Journal of Infrared, Millimeter, and Terahertz Waves](https://link.springer.com/journal/10762)
+- [AIP APL Photonics](https://pubs.aip.org/aip/app/pages/about)
 - Various conferences and workshops
 
 ## Awards and Fellowships
+- [TICRA Travel Grant AP-S/URSI 2026] grant amount awarded to 8 applicants out of a pool of
+hundreds to attend the 2026 IEEE AP-S/URSI conference
 - [Tohoku University President's Award 2025](http://www.chenq.ecei.tohoku.ac.jp/) for outstanding research and academic achievements in my doctoral studies
 - IEICE(Institute of Electronics, Information and Communication Engineers) Valued Presentation 2025 for excellent presentations by fresh Ph.Ds in Japan pursuing studies in antennas and propagation
 - [IEEE AP-S Japan Student Award 2023](https://r10.ieee.org/tokyo-aps/awards2023-winners/)
