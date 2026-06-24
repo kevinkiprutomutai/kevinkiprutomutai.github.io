@@ -48,7 +48,7 @@ Peer Reviewer for:
 - Various conferences and workshops
 
 ## Awards and Fellowships
-- TICRA Travel Grant AP-S/URSI 2026 awarded to attend the 2026 IEEE AP-S/URSI conference
+- [TICRA Travel Grant AP-S/URSI 2026 awarded to attend the 2026 IEEE AP-S/URSI conference](https://2026.apsursi.org/ticra_travel_grant.php)
 - [Tohoku University President's Award 2025](http://www.chenq.ecei.tohoku.ac.jp/) for outstanding research and academic achievements in my doctoral studies
 - IEICE(Institute of Electronics, Information and Communication Engineers) Valued Presentation 2025 for excellent presentations by fresh Ph.Ds in Japan pursuing studies in antennas and propagation
 - [IEEE AP-S Japan Student Award 2023](https://r10.ieee.org/tokyo-aps/awards2023-winners/)
