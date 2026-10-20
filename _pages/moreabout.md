@@ -33,7 +33,7 @@ September 2012 - November 2017
 
 ## Memberships and Service
 - [Institute of Electrical and Electronics Engineers (IEEE) - Antennas and Propagation Society (AP-S)](https://www.ieeeaps.org/)
-- [Institute of Electrical and Electronics Engineers (IEEE) - Microwave Theory and Techniques Society (MTT-S)](https://www.mtt.org/)
+- [Institute of Electrical and Electronics Engineers (IEEE) - Microwave Theory and Technology Society (MTT-S)](https://www.mtt.org/)
 - [American Physical Society (APS)](https://www.aps.org/)
 - [Sigma Xi](https://www.sigmaxi.org/)
 - [European Association on Antennas and Propagation](https://www.euraap.org/)
