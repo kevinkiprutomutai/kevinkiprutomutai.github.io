@@ -42,6 +42,7 @@ September 2012 - November 2017
 Peer Reviewer for:
 - [IEEE Transactions on Antennas and Propagation](https://www.ieeeaps.org/ieee-tap/home)
 - [IEEE Antennas and Wireless Propagation Letters](http://awpl.ee.cuhk.edu.hk/)
+- [IEEE Transactions on Communications](https://www.comsoc.org/publications/journals/ieee-transactions-communications)
 - [IEEE Transactions on Vehicular Technology](https://vtsociety.org/publication/ieee-transactions-vehicular-technology)
 - [Scientific Reports](https://www.nature.com/srep/)
 - [Journal of Infrared, Millimeter, and Terahertz Waves](https://link.springer.com/journal/10762)
